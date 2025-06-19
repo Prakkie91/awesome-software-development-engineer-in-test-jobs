@@ -6,10 +6,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ---
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooxpzdfo1qadnwzpxalm.webp" width="24" height="24" alt="Abbott logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Abbott](https://jobo.world/company/Abbott)
-
-* **[Automation Technical Specialist](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Remote/Automation-Technical-Specialist_31121175-1)** — _n/a_ _(posted 2025-06-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cnatltnudekb0sa5af4e.webp" width="24" height="24" alt="Addepar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Addepar](https://jobo.world/company/Addepar)
 
 * **[Backend Software Development Engineer in Test](https://job-boards.greenhouse.io/addepar1/jobs/7979559002)** — ¤90,000 – ¤141,000 USD _(posted 2025-05-02)_
@@ -29,16 +25,12 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
-* **[63177 Check Job](https://jobs.ashbyhq.com/reteam/71a2fa58-d779-4a83-9e9f-9f2fde81f20e)** — _n/a_ _(posted 2025-03-18)_
+* **[63177 Check Job](https://jobs.ashbyhq.com/reteam/71a2fa58-d779-4a83-9e9f-9f2fde81f20e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-18)_
 * **[QA Engineer](https://jobs.ashbyhq.com/reteam/dc5ee2cf-2b95-4870-b5b7-6d6305be0146)** — ¤50,000 – ¤65,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
 
 * **[AI Agent Software Engineer - Agent Performance Engineering](https://jobs.ashbyhq.com/assembledhq/4d74d0f1-de21-42ef-a77c-874e477eaa25)** — ¤120,000 – ¤270,000 USD _(posted 2025-05-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mhng0b8sfael6jphuwm6.webp" width="24" height="24" alt="AssetWatch logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AssetWatch](https://jobo.world/company/AssetWatch)
-
-* **[DevOps Engineer, Mobile](https://job-boards.greenhouse.io/assetwatch/jobs/4572524005)** — _n/a_ _(posted 2025-06-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kvoglsnzr9qoignq1v12.webp" width="24" height="24" alt="Astra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astra](https://jobo.world/company/Astra)
 
@@ -58,12 +50,16 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
-* **[QA/Operations Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/QA-Operations-Engineer-III--Remote-_R23504)** — _n/a_ _(posted 2025-06-12)_
+* **[Sr. SDET - Cloud (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-SDET---Cloud--Remote--East-Coast-_R23568-1)** — _n/a_ _(posted 2025-06-17)_
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
 * **[Detection Engineer, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer--Falcon-Complete--Remote-_R23178)** — _n/a_ _(posted 2025-05-12)_
 * **[Software Engineer III, Cloud SDET (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Software-Engineer-III--Cloud-SDET--Remote--East-Coast-_R22933)** — _n/a_ _(posted 2025-04-15)_
 * **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 * **[Sr. Site Reliability Engineer - GovCloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Site-Reliability-Engineer---GovCloud--Remote-_R22540)** — _n/a_ _(posted 2025-03-13)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
+
+* **[AI &amp; Workflow Automation Manager](https://jobs.lever.co/cscgeneration-2/4f77bbf3-4170-4bed-9793-e0b3a3a99e90)** — _n/a_ _(posted 2025-06-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/acwwybrxoozoyvddv6wy.webp" width="24" height="24" alt="CVS Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CVS Health](https://jobo.world/company/CVS-Health)
 
@@ -87,17 +83,12 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[UI &amp; SDK Web Engineer](https://job-boards.greenhouse.io/embrace/jobs/5564021004)** — _n/a_ _(posted 2025-06-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
-
-* **[Junior Site Reliability Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000064404817-junior-site-reliability-engineer-remote-?oga=true)** — _n/a_ _(posted 2025-06-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
-* **[Junior Software Engineer - Test &amp; DevOps](https://jobs.lever.co/foodsmart/fc2bfc86-6efb-4cb6-9d09-bf4421554998)** — _n/a_ _(posted 2025-06-12)_
 * **[Data Engineer](https://jobs.lever.co/foodsmart/3864c246-5eda-45e9-92e9-f6d804fa96b0)** — _n/a_ _(posted 2025-05-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
@@ -119,7 +110,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
-* **[Senior Software Engineer II](https://job-boards.greenhouse.io/humaninterest/jobs/6822323)** — _n/a_ _(posted 2025-05-09)_
 * **[Senior Software Engineer,  Backend (Financial Engines)](https://job-boards.greenhouse.io/humaninterest/jobs/6430613)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
@@ -157,6 +147,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Staff Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/30d0c20b-ff9e-42c9-8d31-65d0e926c535)** — _n/a_ _(posted 2025-06-04)_
 * **[Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e)** — _n/a_ _(posted 2025-05-31)_
 * **[Senior Automation Engineer, Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/2f6dd716-42c9-4490-9ded-fee3b2631d7f)** — _n/a_ _(posted 2025-04-08)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
+
+* **[Senior Software Engineer - Task Runtime](https://job-boards.greenhouse.io/motional/jobs/6295289003)** — ¤153,000 – ¤207,000 USD _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
@@ -275,6 +269,11 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Engineer II, Depot Repair](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Texas-USA/Engineer-II--Depot-Repair_R-01320163)** — _n/a_ _(posted 2025-06-11)_
 * **[Automation Delivery Manager, Finance](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Automation-Delivery-Manager--Finance_R-01319295)** — _n/a_ _(posted 2025-06-05)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/npxz1hwxigd8embyomhx.webp" width="24" height="24" alt="Tines logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tines](https://jobo.world/company/Tines)
+
+* **[Professional Services Engineer - East](https://job-boards.greenhouse.io/tines/jobs/5539969004)** — _n/a_ _(posted 2025-06-18)_
+* **[Professional Services Engineer - West](https://job-boards.greenhouse.io/tines/jobs/5566591004)** — _n/a_ _(posted 2025-06-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Staff Quality Engineer I](https://jobs.lever.co/trueml/ba75f151-4a1c-48f4-a01a-73efa2146b6e)** — _n/a_ _(posted 2025-06-06)_
@@ -286,6 +285,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
+* **[Senior Site Reliability Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4573185005)** — _n/a_ _(posted 2025-06-18)_
 * **[Senior QA Automation Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4497438005)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vjvpsj9g0dgi0bdeodhd.webp" width="24" height="24" alt="Vannevar Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vannevar Labs](https://jobo.world/company/VannevarLabs)
@@ -308,4 +308,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-06-18_
+_Updated automatically — 2025-06-19_
