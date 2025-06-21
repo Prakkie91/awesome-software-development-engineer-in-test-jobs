@@ -151,7 +151,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Test Engineer](https://job-boards.greenhouse.io/oklo/jobs/5544852004)** — _n/a_ _(posted 2025-05-23)_
-* **[Mechanical Analyst Engineer](https://boards.greenhouse.io/oklo/jobs/4961080004)** — _n/a_ _(posted 2025-05-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
@@ -234,6 +233,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Senior Software Engineer, Infrastructure & Developer Tooling](https://jobs.ashbyhq.com/standardbots/ce8ae0e8-21b2-4896-b538-ecea5794802d)** — ¤170,000 – ¤220,000 USD _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axeqfcn1tgu0hmd9lcdi.webp" width="24" height="24" alt="StarCompliance logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StarCompliance](https://jobo.world/company/StarCompliance)
+
+* **[Site Reliability Engineer US](https://jobs.lever.co/starcompliance/aa7d55f4-e382-4579-915e-9d363fe643d9)** — _n/a_ _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tkzoeuprdcsvlmiqsqk0.webp" width="24" height="24" alt="Substack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Substack](https://jobo.world/company/Substack)
 
 * **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
@@ -305,4 +308,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
