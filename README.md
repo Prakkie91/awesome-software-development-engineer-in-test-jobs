@@ -79,6 +79,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[UI &amp; SDK Web Engineer](https://job-boards.greenhouse.io/embrace/jobs/5564021004)** — _n/a_ _(posted 2025-06-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
+
+* **[Staff Software Development Engineer (Full Stack, Java, Kubernetes, AWS)](https://jobs.smartrecruiters.com/Experian/744000066408505-staff-software-development-engineer-full-stack-java-kubernetes-aws-?oga=true)** — _n/a_ _(posted 2025-06-20)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-08)_
@@ -151,6 +155,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Test Engineer](https://job-boards.greenhouse.io/oklo/jobs/5544852004)** — _n/a_ _(posted 2025-05-23)_
+* **[Mechanical Analyst Engineer](https://boards.greenhouse.io/oklo/jobs/4961080004)** — _n/a_ _(posted 2025-05-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
@@ -196,7 +201,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[IAM Quality Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4567586005)** — _n/a_ _(posted 2025-05-22)_
 * **[Quality Engineering Manager](https://job-boards.greenhouse.io/rxsense/jobs/4567582005)** — _n/a_ _(posted 2025-05-22)_
-* **[SVP, Software Engineering Delivery &amp; Platform Enablement](https://job-boards.greenhouse.io/rxsense/jobs/4565495005)** — _n/a_ _(posted 2025-05-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
 
@@ -296,7 +300,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Backend Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/ef407939-b6fd-46aa-8b14-e6cf0c805579)** — ¤179,000 – ¤211,000 USD _(posted 2025-06-19)_
 * **[Engineering Manager, Questionnaire Automation](https://jobs.ashbyhq.com/vanta/a10426d7-92a5-4338-93f3-052ee2e5f817)** — ¤207,000 – ¤244,000 USD _(posted 2025-05-22)_
-* **[Senior Software Engineer, Developer Experience ](https://jobs.ashbyhq.com/vanta/dbd4e02c-0c6c-4031-a658-f57e88ec9943)** — ¤179,000 – ¤244,000 USD _(posted 2025-04-19)_
 * **[Engineering Manager, Developer Experience](https://jobs.ashbyhq.com/vanta/8e7ac8b8-b7d7-475c-8d92-1a482ca9b24c)** — ¤207,000 – ¤244,000 USD _(posted 2025-04-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tfwk8ahh4lo34flcob83.webp" width="24" height="24" alt="WillowTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WillowTree](https://jobo.world/company/WillowTree)
@@ -308,4 +311,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_
