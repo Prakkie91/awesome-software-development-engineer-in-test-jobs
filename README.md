@@ -42,6 +42,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Director of Engineering, Sensor Quality (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director-of-Engineering--Sensor-Quality--Remote-_R23641)** — _n/a_ _(posted 2025-06-24)_
 * **[Sr. Detections Content Operations Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Detections-Content-Operations-Engineer--Remote-_R23529)** — _n/a_ _(posted 2025-06-18)_
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
 * **[Detection Engineer, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer--Falcon-Complete--Remote-_R23178)** — _n/a_ _(posted 2025-05-12)_
@@ -54,6 +55,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/acwwybrxoozoyvddv6wy.webp" width="24" height="24" alt="CVS Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CVS Health](https://jobo.world/company/CVS-Health)
 
+* **[Staff Quality Engineer](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/GA---Work-from-home/Staff-Quality-Engineer_R0623074)** — _n/a_ _(posted 2025-06-24)_
 * **[Sr. Manager Test COE](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/CT---Work-from-home/Sr-Manager-Test-COE_R0488520)** — _n/a_ _(posted 2025-03-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
@@ -111,17 +113,9 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Staff Process Automation Engineer, Salesforce](https://jobs.ashbyhq.com/hackerone/2fe3509f-c46c-4fd2-89a1-a88c2a638e03)** — ¤190,400 – ¤211,500 USD _(posted 2025-06-19)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gohkbudztext6mmluwuc.webp" width="24" height="24" alt="Hive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hive](https://jobo.world/company/HiveAI)
-
-* **[DevOps Engineer](https://jobs.ashbyhq.com/hiive/79e38879-4978-4c9f-ad66-d2b5146c9bf6)** — ¤135,000 – ¤160,000 CAD _(posted 2025-05-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
 * **[Senior Software Engineer,  Backend (Financial Engines)](https://job-boards.greenhouse.io/humaninterest/jobs/6430613)** — _n/a_ _(posted 2025-04-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
-
-* **[Software Engineer -  ITDR (Ruby/Rails)](https://job-boards.greenhouse.io/huntress/jobs/6570155003)** — ¤140,000 – ¤160,000 USD _(posted 2025-05-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
@@ -145,7 +139,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
 
 * **[Senior Cloud Engineer](https://job-boards.greenhouse.io/lendingtree/jobs/6871855)** — _n/a_ _(posted 2025-05-09)_
-* **[Senior Cloud Engineer](https://job-boards.greenhouse.io/lendingtree/jobs/6868399)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
@@ -157,9 +150,9 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e)** — _n/a_ _(posted 2025-05-31)_
 * **[Senior Automation Engineer, Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/2f6dd716-42c9-4490-9ded-fee3b2631d7f)** — _n/a_ _(posted 2025-04-08)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/f2gcjjij8ev8we8ueqtx.webp" width="24" height="24" alt="Monte Carlo Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Monte Carlo Data](https://jobo.world/company/Monte-Carlo-Data)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqkoo9bpphunfsb4j3bk.webp" width="24" height="24" alt="Makpar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Makpar](https://jobo.world/company/Makpar)
 
-* **[Strategic Sales Engineer](https://jobs.ashbyhq.com/montecarlodata/c00e4520-2ffc-47a1-8548-f8d8859a36d1)** — _n/a_ _(posted 2025-05-21)_
+* **[Threat Simulation Environment Administrator](https://jobs.lever.co/makpar/13f91c75-51a3-4388-ab82-f33962525e1e)** — _n/a_ _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
@@ -305,6 +298,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
+* **[Compliance Automation Engineer, GRC](https://jobs.ashbyhq.com/vanta/7f732b71-eeba-499c-87fd-e704c2397a20)** — ¤139,000 – ¤164,000 USD _(posted 2025-06-25)_
 * **[Backend Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/ef407939-b6fd-46aa-8b14-e6cf0c805579)** — ¤179,000 – ¤211,000 USD _(posted 2025-06-19)_
 * **[Engineering Manager, Questionnaire Automation](https://jobs.ashbyhq.com/vanta/a10426d7-92a5-4338-93f3-052ee2e5f817)** — ¤207,000 – ¤244,000 USD _(posted 2025-05-22)_
 * **[Engineering Manager, Developer Experience](https://jobs.ashbyhq.com/vanta/8e7ac8b8-b7d7-475c-8d92-1a482ca9b24c)** — ¤207,000 – ¤244,000 USD _(posted 2025-04-12)_
@@ -314,4 +308,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-06-25_
+_Updated automatically — 2025-06-26_
