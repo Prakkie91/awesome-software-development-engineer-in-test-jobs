@@ -144,15 +144,18 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Senior Software Engineer, Autonomy Simulation](https://job-boards.greenhouse.io/latitude/jobs/6692452)** — _n/a_ _(posted 2025-07-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
+
+* **[Senior Cloud Engineer](https://job-boards.greenhouse.io/lendingtree/jobs/6871855)** — _n/a_ _(posted 2025-05-09)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
 * **[Senior Software Development Engineer in Test II (Sr. SDET II)](https://job-boards.greenhouse.io/life360/jobs/7933574002)** — ¤126,000 – ¤185,500 USD _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
-* **[Staff Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/30d0c20b-ff9e-42c9-8d31-65d0e926c535)** — _n/a_ _(posted 2025-06-04)_
+* **[Quality Assurance Engineer (Remote)](https://jobs.ashbyhq.com/machinify/3ac0a2a3-ab89-4a6d-8766-0cfcf6f3d94e)** — _n/a_ _(posted 2025-07-04)_
 * **[Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e)** — _n/a_ _(posted 2025-05-31)_
-* **[Senior Automation Engineer, Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/2f6dd716-42c9-4490-9ded-fee3b2631d7f)** — _n/a_ _(posted 2025-04-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
@@ -249,6 +252,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
 * **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
+* **[Director of Engineering](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Director-of-Engineering_R5042)** — _n/a_ _(posted 2025-07-02)_
 * **[Manager of Automation Performance & Analytics](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Manager-of-Automation-Performance---Analytics_R5033)** — _n/a_ _(posted 2025-07-01)_
 * **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
 * **[Technical Control Engineer (Site Startup)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer--Site-Startup-_R4781)** — _n/a_ _(posted 2025-06-03)_
@@ -300,9 +304,5 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
-
-* **[Network Automation Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Network-Automation-Engineer_R16766-1)** — _n/a_ _(posted 2025-06-27)_
-
 ---
-_Updated automatically — 2025-07-04_
+_Updated automatically — 2025-07-05_
