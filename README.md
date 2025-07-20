@@ -67,6 +67,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
 * **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
+
+* **[AI &amp; Workflow Automation Manager](https://jobs.lever.co/cscgeneration-2/4f77bbf3-4170-4bed-9793-e0b3a3a99e90)** — _n/a_ _(posted 2025-06-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
 
 * **[Developer Success Engineer - West](https://job-boards.greenhouse.io/dagsterlabs/jobs/6577667003)** — ¤60,000 – ¤80,000 USD _(posted 2025-05-16)_
@@ -115,6 +119,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Sales Engineer - (West or Central)](https://jobs.lever.co/hyperscience/76c67146-c166-4e5b-9246-e6f746dd77d9)** — _n/a_ _(posted 2025-05-02)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bm8f52qu8tuibfpv31kn.webp" width="24" height="24" alt="Instructure logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instructure](https://jobo.world/company/Instructure)
+
+* **[Accessibility QA Engineer - TEST ONLY](https://jobs.lever.co/instructure/7792459d-1521-4f50-9920-b69e24ff0bcc)** — _n/a_ _(posted 2021-09-28)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
 
 * **[Lead Test Automation Engineer (SDET)](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Lead-Test-Automation-Engineer--SDET-_JR10)** — _n/a_ _(posted 2025-06-09)_
@@ -161,10 +169,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Join Our Talent Community](https://job-boards.greenhouse.io/patientpoint/jobs/4243761005)** — _n/a_ _(posted 2025-03-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wnpvtpdgwe6vnjf701sp.webp" width="24" height="24" alt="PerformYard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PerformYard](https://jobo.world/company/PerformYard)
-
-* **[Manual QA Tester](https://apply.workable.com/performyard/j/0A220C83A9/)** — _n/a_ _(posted 2025-05-05)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzspzfm4jlxxjzlsrq5a.webp" width="24" height="24" alt="Perplexity AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Perplexity AI](https://jobo.world/company/PerplexityAI)
 
 * **[Quality Engineer - Comet](https://job-boards.greenhouse.io/perplexityai/jobs/4790717007)** — _n/a_ _(posted 2025-07-17)_
@@ -176,6 +180,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
 * **[AI Automation Engineer (Remote)](https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5)** — _n/a_ _(posted 2025-06-11)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/g2xzgj0faw190v6ckrip.webp" width="24" height="24" alt="Sagent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sagent](https://jobo.world/company/Sagent)
+
+* **[Technical Quality Assurance SR](https://job-boards.greenhouse.io/sagent/jobs/5593239004)** — _n/a_ _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
@@ -233,7 +241,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Senior Solutions Engineer - Central](https://job-boards.greenhouse.io/tines/jobs/5584729004)** — _n/a_ _(posted 2025-07-09)_
 * **[Professional Services Engineer - East](https://job-boards.greenhouse.io/tines/jobs/5539969004)** — _n/a_ _(posted 2025-06-18)_
 * **[Professional Services Engineer - West](https://job-boards.greenhouse.io/tines/jobs/5566591004)** — _n/a_ _(posted 2025-06-18)_
-* **[Customer Success Engineer - West](https://job-boards.greenhouse.io/tines/jobs/5540262004)** — ¤120,000 – ¤160,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/novnzcvlzovayvbqmd7m.webp" width="24" height="24" alt="Tray.io logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tray.io](https://jobo.world/company/Tray-io)
 
@@ -276,9 +283,5 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
-
-* **[Principal Platform Engineer (Tooling)](https://job-boards.greenhouse.io/zscaler/jobs/4763909007)** — _n/a_ _(posted 2025-06-14)_
-
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_
