@@ -150,6 +150,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ovbjme7jeeax1yjtxua6.webp" width="24" height="24" alt="National Research Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[National Research Group](https://jobo.world/company/National-Research-Group)
 
 * **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066631383-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-23)_
+* **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066630212-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-23)_
 * **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066379982-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hst5omo3snsic12lewxv.webp" width="24" height="24" alt="NerdWallet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NerdWallet](https://jobo.world/company/NerdWallet)
@@ -245,7 +246,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/npxz1hwxigd8embyomhx.webp" width="24" height="24" alt="Tines logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tines](https://jobo.world/company/Tines)
 
 * **[Professional Services Engineer - East](https://job-boards.greenhouse.io/tines/jobs/5539969004)** — _n/a_ _(posted 2025-06-18)_
-* **[Professional Services Engineer - West](https://job-boards.greenhouse.io/tines/jobs/5566591004)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/novnzcvlzovayvbqmd7m.webp" width="24" height="24" alt="Tray.io logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tray.io](https://jobo.world/company/Tray-io)
 
@@ -293,4 +293,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
