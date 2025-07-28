@@ -37,10 +37,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[SDET II (Remote)](https://jobs.ashbyhq.com/auditboard/029e93de-9f75-478a-b055-22b48946d8cb)** — ¤80,000 – ¤120,000 USD _(posted 2025-07-25)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pkhbb3jf8o5ube3nrgac.webp" width="24" height="24" alt="Bankers Healthcare Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bankers Healthcare Group](https://jobo.world/company/Bankers-Healthcare-Group)
-
-* **[DevOps Engineer](https://ghc.wd1.myworkdayjobs.com/ghg_careers/job/RemoteNationwide-USA/DevOps-Engineer_JR246733)** — _n/a_ _(posted 2025-05-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
 
 * **[Senior Software Engineer Development in Test](https://jobs.smartrecruiters.com/Believe/744000071342255-senior-software-engineer-development-in-test?oga=true)** — _n/a_ _(posted 2025-07-17)_
@@ -53,23 +49,19 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Sr. Quality Assurance Analyst](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Quality-Assurance-Analyst_JR10637)** — _n/a_ _(posted 2025-07-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
-
-* **[Infrastructure Engineer (SRE)](https://jobs.ashbyhq.com/clerk/8e5b4df5-2003-46f7-91aa-c1afeadc65c1)** — _n/a_ _(posted 2025-06-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bqklosjijtqkmxnsehvz.webp" width="24" height="24" alt="Cresta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cresta](https://jobo.world/company/Cresta)
 
 * **[Principal Solutions Engineer, West](https://boards.greenhouse.io/cresta/jobs/4576065008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Engineer - Front End SDET (East Coast, Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Front-End-SDET--Remote--PST-_R23837)** — _n/a_ _(posted 2025-07-25)_
 * **[Sr. Engineer - Front End SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Front-End-SDET--Remote-_R24030)** — _n/a_ _(posted 2025-07-22)_
 * **[Penetration Test Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Penetration-Test-Engineer-II--Remote-_R23991)** — _n/a_ _(posted 2025-07-22)_
 * **[Data & Automation Architect - GTM (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data---Automation-Architect---GTM--Remote-_R23957)** — _n/a_ _(posted 2025-07-22)_
 * **[Sr Engineer - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Engineer---Cloud-SDET--Remote-_R23879)** — _n/a_ _(posted 2025-07-11)_
 * **[SDET III, Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III--Windows-Sensor--Remote-_R23865)** — _n/a_ _(posted 2025-07-11)_
 * **[Sr. Sensor SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Sensor-SDET--Remote-_R23760)** — _n/a_ _(posted 2025-07-07)_
-* **[Engineer III - Content SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Content-SDET--Remote-_R23745)** — _n/a_ _(posted 2025-07-02)_
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
 * **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
 
@@ -89,6 +81,12 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ttt7yt8jgmemfkliscye.webp" width="24" height="24" alt="Forward Networks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forward Networks](https://jobo.world/company/Forward-Networks)
 
 * **[DevOps Engineer](https://job-boards.greenhouse.io/forwardnetworks/jobs/6652795003)** — _n/a_ _(posted 2025-07-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
+
+* **[Principal Staff Artificial Intelligence Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Principal-Staff-Artificial-Intelligence-Engineer_JR-202509598)** — _n/a_ _(posted 2025-07-10)_
+* **[Staff Test Developer,  AV Sensing](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Staff-Test-Developer---AV-Sensing_JR-202510793)** — _n/a_ _(posted 2025-07-08)_
+* **[Systems Test Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Systems-Test-Engineer_JR-202511056)** — _n/a_ _(posted 2025-06-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
@@ -116,6 +114,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Senior Quality Assurance Manager - Focus](https://job-boards.greenhouse.io/hudl/jobs/6988774)** — _n/a_ _(posted 2025-06-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
+
+* **[Sr Automation Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Automation-Engineer_R-381447)** — _n/a_ _(posted 2025-07-25)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bm8f52qu8tuibfpv31kn.webp" width="24" height="24" alt="Instructure logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instructure](https://jobo.world/company/Instructure)
 
 * **[Accessibility QA Engineer - TEST ONLY](https://jobs.lever.co/instructure/7792459d-1521-4f50-9920-b69e24ff0bcc)** — _n/a_ _(posted 2021-09-28)_
@@ -126,6 +128,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
+* **[QA Automation Engineer, IOS / Android](https://apply.workable.com/keepersecurity/j/469E253563)** — _n/a_ _(posted 2025-07-27)_
 * **[QA Analyst, Privilege Access Management](https://apply.workable.com/keepersecurity/j/589ABBA21B/)** — _n/a_ _(posted 2025-06-30)_
 * **[QA Automation Engineer, (Browser Ext, Keeper Automation)](https://apply.workable.com/keepersecurity/j/09F70D87E6/)** — _n/a_ _(posted 2025-05-06)_
 * **[Senior Test Tools Engineer](https://apply.workable.com/keepersecurity/j/DD61DC84A6/)** — _n/a_ _(posted 2025-04-10)_
@@ -150,7 +153,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ovbjme7jeeax1yjtxua6.webp" width="24" height="24" alt="National Research Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[National Research Group](https://jobo.world/company/National-Research-Group)
 
 * **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066631383-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-23)_
-* **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066630212-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-23)_
 * **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066379982-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hst5omo3snsic12lewxv.webp" width="24" height="24" alt="NerdWallet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NerdWallet](https://jobo.world/company/NerdWallet)
@@ -228,7 +230,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
 * **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
 * **[Integration Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Integration-Specialist_R4962)** — _n/a_ _(posted 2025-06-04)_
-* **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
 
@@ -255,7 +256,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Sales Engineer - Healthcare](https://jobs.ashbyhq.com/uipath/17fe5939-2dfd-4577-a75b-06d1e10c9374)** — ¤85,000 – ¤110,000 USD _(posted 2025-07-22)_
 * **[Sales Engineer - Commercial](https://jobs.ashbyhq.com/uipath/fef0a732-294f-4394-96f4-1ce549e2a1c5)** — _n/a_ _(posted 2025-07-16)_
-* **[Sales Engineer - Financials](https://jobs.ashbyhq.com/uipath/83a1c0ac-8f2b-4094-b5cb-af7a42c46c03)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Automation Developer](https://jobs.ashbyhq.com/uipath/10bba4ad-00e9-40c4-9e23-2dcd927b81a2)** — ¤141,000 – ¤178,000 USD _(posted 2025-07-08)_
 * **[Test Suite Sales Specialist - GSI](https://jobs.ashbyhq.com/uipath/aca1a46f-724c-4c07-a354-96e9f02bc276)** — _n/a_ _(posted 2025-05-08)_
 * **[Sales Engineer - Commercial Acquisition](https://jobs.ashbyhq.com/uipath/fb187986-ae98-414e-8634-2e64735de445)** — _n/a_ _(posted 2025-04-23)_
@@ -293,4 +293,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
