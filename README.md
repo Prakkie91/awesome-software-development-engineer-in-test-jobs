@@ -74,6 +74,7 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
+* **[Senior Software Design Engineer in Test (Remote)](https://jobs.smartrecruiters.com/Experian/744000073380033-senior-software-design-engineer-in-test-remote-)** — _n/a_ _(posted 2025-07-29)_
 * **[Android Software Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000073090155-android-software-engineer-remote-)** — _n/a_ _(posted 2025-07-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
@@ -111,6 +112,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qhjqtpblwcorcocaldpz.webp" width="24" height="24" alt="Headway logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headway](https://jobo.world/company/Headway)
 
 * **[Senior Security Engineer (IR &amp; Automation)](https://job-boards.greenhouse.io/headway/jobs/5587797004)** — _n/a_ _(posted 2025-07-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vvbhenfduy7yertm4eqk.webp" width="24" height="24" alt="Hometap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hometap](https://jobo.world/company/Hometap)
+
+* **[Senior QA Engineer](https://job-boards.greenhouse.io/hometap/jobs/4803516007)** — _n/a_ _(posted 2025-07-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qojajlybelziqnn3mgv5.webp" width="24" height="24" alt="Hudl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hudl](https://jobo.world/company/Hudl)
 
@@ -154,7 +159,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ovbjme7jeeax1yjtxua6.webp" width="24" height="24" alt="National Research Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[National Research Group](https://jobo.world/company/National-Research-Group)
 
-* **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066631383-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-23)_
 * **[Sales Account Manager](https://jobs.smartrecruiters.com/ResearchGroup/744000066379982-sales-account-manager?oga=true)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hst5omo3snsic12lewxv.webp" width="24" height="24" alt="NerdWallet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NerdWallet](https://jobo.world/company/NerdWallet)
@@ -213,10 +217,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
 
 * **[QA Engineer](https://boards.greenhouse.io/shift5/jobs/5154218004)** — _n/a_ _(posted 2025-04-19)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
-
-* **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
@@ -299,4 +299,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Senior Principal Software Engineer (Security Clearance Required)](https://job-boards.greenhouse.io/zscaler/jobs/4758429007)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_
