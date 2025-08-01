@@ -10,10 +10,6 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Staff Automation Engineering](https://job-boards.greenhouse.io/addepar1/jobs/8076398002)** — ¤150,000 – ¤234,000 USD _(posted 2025-07-23)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
-
-* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ne28yljtdk8zbaxqvve2.webp" width="24" height="24" alt="AI Foundation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AI Foundation](https://jobo.world/company/AI-Foundation)
 
 * **[Junior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399775-junior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤96,000 – ¤120,000 USD _(posted 2025-07-08)_
@@ -169,6 +165,10 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 
 * **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
+
+* **[Test Floor Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Korea-Remote/Test-Floor-Engineer_JR1990498)** — _n/a_ _(posted 2024-11-04)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Test Engineer](https://job-boards.greenhouse.io/oklo/jobs/5544852004)** — _n/a_ _(posted 2025-05-23)_
@@ -299,4 +299,4 @@ Browse a wide range of remote Software Development Engineer in Test positions av
 * **[Senior Principal Software Engineer (Security Clearance Required)](https://job-boards.greenhouse.io/zscaler/jobs/4758429007)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
